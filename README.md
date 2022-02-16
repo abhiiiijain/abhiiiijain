@@ -2,17 +2,13 @@
 <h3 align="center">B.Tech CSE 3rd Year Student </h3>
 <h3 align="center">Frontend developer from India</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhashrai02&label=Profile%20views&color=0e75b6&style=flat" alt="prabhashrai02" /> </p> -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhashrai02" alt="prabhashrai02" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiiiijain" alt="abhiiiijain" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce App**
 
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **abhinandanbansal123@gmail.com**
-
-<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1mhuZqcLKcKCsXauIY3yqhjPOnvY2DUap/view?usp=sharing](https://drive.google.com/file/d/1mhuZqcLKcKCsXauIY3yqhjPOnvY2DUap/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
