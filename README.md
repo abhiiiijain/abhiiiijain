@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Jain</h1>
 <h3 align="center">B.Tech CSE 3rd Year Student </h3>
-<h3 align="center">Frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiiiijain" alt="abhiiiijain" /></a> </p>
 
