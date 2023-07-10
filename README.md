@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Jain</h1>
-<h3 align="center">B.Tech CSE 3rd Year Student </h3>
+<h3 align="center">B.Tech CSE Graduate </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiiiijain&label=Profile%20views&color=0e75b6&style=flat" alt="abhiiiijain" /> </p>
 
