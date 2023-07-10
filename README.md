@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Jain</h1>
 <h3 align="center">B.Tech CSE 3rd Year Student </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiiiijain&label=Profile%20views&color=0e75b6&style=flat" alt="abhiiiijain" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiiiijain" alt="abhiiiijain" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce App**
