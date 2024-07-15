@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiiiijain" alt="abhiiiijain" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce App**
+<!-- 🔭 I’m currently working on **Ecommerce App**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** -->
 
 - 👨‍💻 Website [https://abhiiiijain.github.io/portfolioo/](https://abhiiiijain.github.io/Portfolioo/)
 
