@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native** -->
 
-- 👨‍💻 Website [https://abhiiiijain.github.io/portfolioo/](https://abhiiiijain.com/)
+- 👨‍💻 Website [https://abhiiiijain.com/](https://abhiiiijain.com/)
 
 - 📫 How to reach me **abhinandanbansal123@gmail.com**
 
