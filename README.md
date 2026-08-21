@@ -1,96 +1,105 @@
-<h1 align="center">Hi, I'm Abhinandan Jain</h1>
-<h3 align="center">Full Stack Software Engineer · MERN Stack</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://abhiiiijain.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-abhiiiijain.com-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:abhinandanbansal123@gmail.com"><img src="https://img.shields.io/badge/Email-abhinandanbansal123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=abhiiiijain&label=Profile%20views&color=ff6b00&style=for-the-badge" alt="Profile views" />
-</p>
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a00,50:4a1c00,100:2d1400&height=200&section=header&text=Abhinandan%20Jain&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descSize=18&descAlignY=58&descColor=ff9f4a&animation=fadeIn" />
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9F4A&center=true&vCenter=true&width=650&lines=Crafting+digital+experiences+with+code;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+scalable+web+apps;Open+to+projects+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social badges -->
+<a href="https://abhiiiijain.com/"><img src="https://img.shields.io/badge/Portfolio-abhiiiijain.com-FF6B00?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/abhiiiijain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/abhiiiijain"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://twitter.com/abhiiiijain1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:abhinandanbansal123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=abhiiiijain&label=Profile+Views&color=ff6b00&style=for-the-badge" />
+
+</div>
 
 ---
 
-### About me
+## 🧑‍💻 About Me
 
-I'm a Full Stack Software Engineer based in **Ratia, India**, specializing in the **MERN stack**. I build scalable, responsive, and user-focused web applications — from clean interfaces to reliable backends.
+```javascript
+const abhinandan = {
+  role: "Full Stack Software Engineer",
+  location: "Ratia, India 🇮🇳",
+  experience: "Software Engineer @ Twigz Technologies (Sep 2023 – Jul 2025)",
+  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
+  focus: ["Scalable web apps", "Clean UI", "Reliable backends"],
+  status: "Available for projects",
+  website: "https://abhiiiijain.com",
+  contact: "abhinandanbansal123@gmail.com"
+};
+```
 
-- 💼 Software Engineer @ **Twigz Technologies Pvt. Ltd.** (Sep 2023 – Jul 2025)
-- 🌐 Portfolio: [abhiiiijain.com](https://abhiiiijain.com/)
-- 📫 Reach me: **abhinandanbansal123@gmail.com**
-- ⚡ Open to projects and collaborations
+Passionate about building modern web experiences — from intuitive interfaces to robust backend systems using the **MERN stack**.
 
 ---
 
-### Featured projects
+## 🛠️ Tech Stack
 
-| Project | Stack | What it is |
+### ⚡ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Description |
 | --- | --- | --- |
-| **[Global Farming League](https://abhiiiijain.com/)** | React, TypeScript, Node, MongoDB | Community platform with CMS, clan registry, war tracking & Clash of Clans API sync |
-| **[Ikyati](https://abhiiiijain.com/)** | React, Vite, Tailwind, Express | Jewelry e-commerce with OTP auth, cart/checkout, admin CMS & Razorpay |
-| **[Arkitektur](https://abhiiiijain.com/)** | React, Node, Express, MongoDB | Interior design site with service booking (architecture, planning, renovation) |
+| **Global Farming League** | React · TypeScript · Node · MongoDB | Community platform with CMS, clan registry, war tracking & Clash of Clans API sync |
+| **Ikyati** | React · Vite · Tailwind · Express | Jewelry e-commerce with OTP auth, cart/checkout, admin CMS & Razorpay |
+| **Arkitektur** | React · Node · Express · MongoDB | Interior design site with service booking for architecture & renovation |
+
+More on my portfolio → [abhiiiijain.com](https://abhiiiijain.com/)
 
 ---
 
-### Skills & tools
+## 📊 GitHub Stats
 
-**Frontend**  
-`HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind CSS` `SCSS`
+<div align="center">
 
-**Backend**  
-`Node.js` `Express.js`
+<img src="https://streak-stats.demolab.com/?user=abhiiiijain&theme=dark&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" alt="GitHub Streak" />
 
-**Database & cloud**  
-`MongoDB` `MySQL` `Firebase`
-
-**Tools**  
-`Git` `GitHub` `Figma` `Postman` `Adobe Photoshop`
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36"/>
-</p>
+</div>
 
 ---
 
-### GitHub stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhiiiijain&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6b00&icon_color=ff6b00&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiiiijain&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=c9d1d9" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiiijain&theme=dark&hide_border=true&background=0d1117&ring=ff6b00&fire=ff6b00&currStreakLabel=ff6b00" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiiiijain&theme=darkhub&no-frame=true&no-bg=false&column=7" alt="GitHub trophies" />
-</p>
-
----
-
-### Connect with me
-
-<p align="left">
-  <a href="https://abhiiiijain.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-abhiiiijain.com-ff6b00?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://linkedin.com/in/abhiiiijain" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-abhiiiijain-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/abhiiiijain" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-abhiiiijain-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://twitter.com/abhiiiijain1" target="_blank"><img align="center" src="https://img.shields.io/badge/X-abhiiiijain1-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:abhinandanbansal123@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<br />
-
-<p align="center">
+<p>
   <i>Crafting digital experiences with code.</i>
 </p>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a00,50:4a1c00,100:2d1400&height=100&section=footer" />
+
+</div>
