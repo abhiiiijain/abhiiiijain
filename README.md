@@ -40,14 +40,18 @@ const abhinandan = {
 
 Passionate about building modern web experiences — from intuitive interfaces to robust backend systems using the **MERN stack**.
 
+### 💼 Looking to hire or collaborate?
+
+<a href="https://abhiiiijain.com/contact"><img src="https://img.shields.io/badge/Hire%20Me-abhiiiijain.com-FF6B00?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:abhinandanbansal123@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-abhinandanbansal123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 ---
 
 ## 🛠️ Tech Stack
 
 ### ⚡ Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -75,9 +79,9 @@ Passionate about building modern web experiences — from intuitive interfaces t
 
 | Project | Stack | Description |
 | --- | --- | --- |
-| **Global Farming League** | React · TypeScript · Node · MongoDB | Community platform with CMS, clan registry, war tracking & Clash of Clans API sync |
-| **Ikyati** | React · Vite · Tailwind · Express | Jewelry e-commerce with OTP auth, cart/checkout, admin CMS & Razorpay |
-| **Arkitektur** | React · Node · Express · MongoDB | Interior design site with service booking for architecture & renovation |
+| **[Global Farming League](https://gfl.abhiiiijain.com/)** | React · TypeScript · Node · MongoDB | Community platform with CMS, clan registry, war tracking & Clash of Clans API sync |
+| **[Ikyati](https://ikyati.abhiiiijain.com/)** | React · Vite · Tailwind · Express | Jewelry e-commerce with OTP auth, cart/checkout, admin CMS & Razorpay |
+| **[Arkitektur](https://github.com/abhiiiijain/Arkitektur/)** | React · Node · Express · MongoDB | Interior design site with service booking for architecture & renovation |
 
 More on my portfolio → [abhiiiijain.com](https://abhiiiijain.com/)
 
@@ -88,6 +92,10 @@ More on my portfolio → [abhiiiijain.com](https://abhiiiijain.com/)
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=abhiiiijain&theme=dark&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/abhiiiijain/abhiiiijain/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution graph" />
 
 </div>
 
