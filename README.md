@@ -74,11 +74,11 @@ const abhinandan = {
 
 ## 🚀 Featured Projects
 
-All project repos below are owned under **[@abhiiiijain](https://github.com/abhiiiijain)**. Some earlier commits also appear on [@trinitycoc](https://github.com/trinitycoc) (same person — secondary account used while building Clash of Clans tools).
+All project repos below are owned under **[@abhiiiijain](https://github.com/abhiiiijain)**. Some earlier commits also appear on [@trinitycoc](https://github.com/trinitycoc) (same person - secondary account used while building Clash of Clans tools).
 
 | Project | Stack | Description |
 | --- | --- | --- |
-| **[Global Farming League](https://gfl.abhiiiijain.com/)** · [repo](https://github.com/abhiiiijain/GFL) | React · TypeScript · Vite · Tailwind · Node · Express · MongoDB | Clash of Clans farm-war community platform — CMS, clan registry, war matchups, standings, player tracker & staff tools synced with the CoC API |
+| **[Global Farming League](https://gfl.abhiiiijain.com/)** · [repo](https://github.com/abhiiiijain/GFL) | React · TypeScript · Vite · Tailwind · Node · Express · MongoDB | Clash of Clans farm-war community platform - CMS, clan registry, war matchups, standings, player tracker & staff tools synced with the CoC API |
 | **[Ikyati](https://ikyati.abhiiiijain.com/)** · [repo](https://github.com/abhiiiijain/Ikyati) | React · Vite · Tailwind · Node · Express · MongoDB · Razorpay · Cloudinary | Jewelry e-commerce with OTP login, cart/checkout, admin CMS, Cloudinary uploads & Razorpay checkout (Vercel + Render) |
 | **[Arkitektur](https://github.com/abhiiiijain/Arkitektur/)** | React · Node · Express · MongoDB | Interior design site with service booking for architecture, planning & renovation |
 
